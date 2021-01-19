@@ -10,6 +10,7 @@ import { useState } from 'react';
 import { MenuOutlined } from '@ant-design/icons';
 import Cookie from 'js-cookie';
 import { DesktopLayoutProps } from './types/props';
+import 'antd/dist/antd.css';
 import '../static/Desktop.css';
 
 // TODO: Test and package

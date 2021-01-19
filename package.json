@@ -80,8 +80,13 @@
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
     "antd": "^4.10.3",
-    "antd-resizeable-sider": "github:jeswr/antd-resizeable-sidebar",
+    "antd-resizeable-sider": "^1.0.0",
     "js-cookie": "^2.2.1",
     "react": "^17.0.1"
+  },
+  "peerDependencies": {
+    "antd": "^4.9.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }

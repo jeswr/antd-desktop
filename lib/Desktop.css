@@ -1,0 +1,25 @@
+.site-layout {
+  height: 100vh;
+}
+
+.site-header {
+  padding: 0;
+}
+
+.site-footer {
+  padding: 0;
+}
+
+.site-content {
+  margin: 0px 14px;
+  overflow: auto;
+}
+
+.site-content-layout {
+  height: 100%;
+}
+
+.site-sidebar {
+  min-width: 100px;
+  overflow: auto;
+}

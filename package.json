@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/jeswr/antd-desktop.git"
   },
   "keywords": [],
   "author": "Jesse Wright <jesse.wright@anu.edu.au>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jeswr/antd-desktop/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/jeswr/antd-desktop#readme",
   "devDependencies": {
     "@babel/preset-react": "^7.12.10",
     "@types/jest": "^26.0.19",

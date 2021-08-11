@@ -34,7 +34,7 @@
   "homepage": "https://github.com/jeswr/antd-desktop#readme",
   "devDependencies": {
     "@babel/preset-react": "^7.12.10",
-    "@types/jest": "^26.0.19",
+    "@types/jest": "^27.0.0",
     "@types/js-cookie": "^2.2.6",
     "@types/react": "^17.0.0",
     "@typescript-eslint/eslint-plugin": "^4.12.0",
